@@ -5,8 +5,22 @@
 -  Lina Ojeda - 202112324 - l.ojedaa@uniandes.edu.co
 -  William Toro - 201112526 - wy.toro993@uniandes.edu.co
 
+## Resumen Ejecutivo
 
----
+El presente proyecto analiza datos de reservas hoteleras con el fin de identificar patrones que permitan reducir cancelaciones y mejorar la ocupación.  
+Se detectó que:
+- Las reservas con alta anticipación presentan una probabilidad de cancelación mucho mayor.  
+- Enero se confirma como un mes de baja demanda, representando un reto en la estrategia de ocupación.  
+- Las estadías más largas se concentran en hoteles tipo resort, mientras que los city hotels tienen menor volumen de reservas, incluso en temporada alta.  
+- Existe dependencia entre el canal de distribución y las cancelaciones, aunque la magnitud del efecto es moderada.  
+
+Este análisis proporciona una base sólida para definir estrategias comerciales basadas en datos, como políticas diferenciadas de cancelación, promociones para meses de baja ocupación y segmentación por tipo de cliente y canal de distribución.
+
+## Resumen Ejecutivo
+
+El resumen ejecutivo con el detalle de problema, solución, valor y conclusiones estratégicas se encuentra disponible en el siguiente documento:  
+
+falta agregar el link 
 
 ## Objetivo
 El objetivo principal de este proyecto es **analizar el comportamiento de las reservas en hoteles de tipo ciudad y resort** con el fin de identificar patrones que permitan a la cadena hotelera:
@@ -79,9 +93,4 @@ Las librerías principales son:
 
 En Colab estas librerías ya están preinstaladas, por lo que no requiere instalación adicional.
 
----
 
-## Próximos pasos
-- Incorporar modelos predictivos de cancelación usando técnicas de machine learning.
-- Implementar dashboards interactivos en Power BI o Streamlit para seguimiento en tiempo real.
-- Evaluar estrategias dinámicas de precios basadas en estacionalidad y patrones de ocupación.
