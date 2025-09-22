@@ -5,7 +5,16 @@
 -  Lina Ojeda - 202112324 - l.ojedaa@uniandes.edu.co
 -  William Toro - 201112526 - wy.toro993@uniandes.edu.co
 
-## Resumen Ejecutivo
+## Estructura del repositorio
+
+La carpeta principal (Taller1) contiene todos los recursos necesarios para ejecutar y documentar el proyecto:
+- **Taller1.ipynb**: notebook principal, ejecutable en Google Colab, que contiene el análisis exploratorio, multivariado y pruebas de hipótesis.  
+- **hotel_bookings_modified.csv**: dataset base de reservas hoteleras usado para el análisis.  
+- **hotel_dict.csv / hotel_dictionary.csv**: diccionarios de variables con información detallada sobre los campos del dataset.  
+- **Resumen_Ejecutivo.pdf**: documento con el planteamiento del problema, solución, valor generado, insights estratégicos y próximos pasos.  
+- **README.md**: documentación general del proyecto con objetivo, alcance, conclusiones, instrucciones de ejecución y dependencias.  
+
+## Resumen
 
 El presente proyecto analiza datos de reservas hoteleras con el fin de identificar patrones que permitan reducir cancelaciones y mejorar la ocupación.  
 Se detectó que:
