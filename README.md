@@ -91,7 +91,7 @@ El proyecto incluye:
 ---
 
 ## Instrucciones de ejecución
-1. Abrir la carpeta Taller_1 hacer click en el notebook denominado Taller1.ipynb (puede ingresar también al notebook haciendo click aqui [Ver Resumen Ejecutivo 1](Taller_1/Taller1.ipynb)). Una vez dentro del notebook hacer clic en el botón **Abrir en Colab** que aparece en la parte superior del notebook en este repositorio. 
+1. Abrir la carpeta Taller_1 hacer click en el notebook denominado Taller1.ipynb (puede ingresar también al notebook haciendo click aqui [Taller_1](Taller_1/Taller1.ipynb)). Una vez dentro del notebook hacer clic en el botón **Abrir en Colab** que aparece en la parte superior del notebook en este repositorio. 
 2. Una vez en Google Colab, no es necesario cargar manualmente los datos.  
    El notebook ya está configurado para acceder directamente a los archivos desde este repositorio de GitHub mediante URL.
 
