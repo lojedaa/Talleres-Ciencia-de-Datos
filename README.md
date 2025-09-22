@@ -7,7 +7,7 @@
 
 ## Estructura del repositorio
 
-La carpeta principal (Taller_1) contiene todos los recursos necesarios para ejecutar y documentar el proyecto:
+El repositorio tiene la siguiente estructura:
 - **Taller_1**
   - **Resumen Ejecutivo.pdf**: documento con el planteamiento del problema, solución, valor generado, insights estratégicos y próximos pasos.
   - **Taller1.ipynb**: notebook principal, ejecutable en Google Colab, que contiene el análisis exploratorio, multivariado y pruebas de hipótesis.  
@@ -19,6 +19,7 @@ La carpeta principal (Taller_1) contiene todos los recursos necesarios para ejec
 
 El presente proyecto analiza datos de reservas hoteleras con el fin de identificar patrones que permitan reducir cancelaciones y mejorar la ocupación.  
 Se detectó que:
+
 - Las reservas con alta anticipación presentan una probabilidad de cancelación mucho mayor.  
 - Enero se confirma como un mes de baja demanda, representando un reto en la estrategia de ocupación.  
 - Las estadías más largas se concentran en hoteles tipo resort, mientras que los city hotels tienen menor volumen de reservas, incluso en temporada alta.  
